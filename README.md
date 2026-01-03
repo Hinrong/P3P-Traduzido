@@ -2,6 +2,10 @@
 
 Tradução BETA de **Persona 3 Portable** (PC) para Português do Brasil, realizada pela **Equipe Atlantis**.
 
+A tradução **NÃO** está completa, você encontrará erros, bugs, crashes e outros durante a sua jogatina.
+Cerca de 99% do jogo está traduzido e apenas 40% revisado.
+Qualquer erro relate no servidor de Discord para receber ajuda e nos ajudar a terminar a tradução.
+
 ---
 
 # 📥 DOWNLOAD
