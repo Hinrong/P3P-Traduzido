@@ -10,7 +10,7 @@ Qualquer erro relate no servidor de Discord para receber ajuda e nos ajudar a te
 
 # 📥 DOWNLOAD
 
-## 👉 [CLIQUE AQUI PARA BAIXAR O INSTALADOR]() 👈
+## 👉 [CLIQUE AQUI PARA BAIXAR O INSTALADOR](https://github.com/Ahtheerr/P3P-Instalador-Tradu-o/releases/tag/Instalador) 👈
 *(Certifique-se de baixar o arquivo `.exe` na seção "Assets", e não o zip do código)*
 
 ---
@@ -19,7 +19,7 @@ Qualquer erro relate no servidor de Discord para receber ajuda e nos ajudar a te
 
 ### Método 1: Instalação Automática (Recomendado)
 1. Baixe o **Release** mais recente no link acima.
-2. Execute o arquivo `nomedoinstalador.exe`.
+2. Execute o arquivo `Instalador.Traducao.P3P.exe`.
 3. Selecione a versão do seu jogo (Steam ou Game Pass).
 4. Siga as instruções na tela.
 ---
@@ -27,7 +27,7 @@ Qualquer erro relate no servidor de Discord para receber ajuda e nos ajudar a te
 ### Método 2: Instalação Manual (Caso o instalador falhe)
 Se tiver problemas com o executável, siga estes passos:
 
-1. Baixe este [release]() e extraia os arquivos.
+1. Baixe este [release](https://github.com/Hinrong/P3P-Traduzido/releases/tag/31-02-2026) e extraia os arquivos.
 2. Copie o arquivo `dinput8.dll` e a pasta `update`.
 3. Cole-os na pasta raiz do seu jogo (onde fica o P3P.exe).
 
