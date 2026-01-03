@@ -15,7 +15,7 @@ Tradução BETA de **Persona 3 Portable** (PC) para Português do Brasil, realiz
 
 ### Método 1: Instalação Automática (Recomendado)
 1. Baixe o **Release** mais recente no link acima.
-2. Execute o arquivo `Instalador Tradução P4G.exe`.
+2. Execute o arquivo `nomedoinstalador.exe`.
 3. Selecione a versão do seu jogo (Steam ou Game Pass).
 4. Siga as instruções na tela.
 ---
@@ -25,14 +25,14 @@ Se tiver problemas com o executável, siga estes passos:
 
 1. Baixe este [release]() e extraia os arquivos.
 2. Copie o arquivo `dinput8.dll` e a pasta `update`.
-3. Cole-os na pasta raiz do seu jogo (onde fica o executável do Persona 4).
+3. Cole-os na pasta raiz do seu jogo (onde fica o P3P.exe).
 
 ---
 
 ## 🐧 Linux / Steam Deck
 Para que a tradução funcione corretamente no Linux (ou Steam Deck), é necessário adicionar um parâmetro de inicialização.
 
-1. Na Steam, clique com o botão direito em **Persona 4 Golden**.
+1. Na Steam, clique com o botão direito em **Persona 3 Portable**.
 2. Vá em **Propriedades** > **Geral**.
 3. No campo **Opções de Inicialização**, cole o seguinte comando: `WINEDLLOVERRIDES="dinput8=n,b" %command%`
 
