@@ -20,14 +20,12 @@ Qualquer erro relate no servidor de Discord para receber ajuda e nos ajudar a te
 ### Método 1: Instalação Automática (Recomendado)
 1. Baixe o **Release** mais recente no link acima.
 2. Execute o arquivo `Instalador.Traducao.P3P.exe`.
-3. Selecione a versão do seu jogo (Steam ou Game Pass).
-4. Siga as instruções na tela.
 ---
 
 ### Método 2: Instalação Manual (Caso o instalador falhe)
 Se tiver problemas com o executável, siga estes passos:
 
-1. Baixe este [release](https://github.com/Hinrong/P3P-Traduzido/releases/tag/31-02-2026) e extraia os arquivos.
+1. Baixe este [release](https://github.com/Hinrong/P3P-Traduzido/releases/tag/31-02-2026](https://github.com/Hinrong/P3P-Traduzido/releases/tag/03012026) e extraia os arquivos.
 2. Copie o arquivo `dinput8.dll` e a pasta `update`.
 3. Cole-os na pasta raiz do seu jogo (onde fica o P3P.exe).
 
@@ -48,7 +46,7 @@ Para que a tradução funcione corretamente no Linux (ou Steam Deck), é necess�
 - 🌐 Twitter: https://x.com/AtlantisP3P
 
 ## Phantasie Translate
-- Pela parceiria, ajuda e apoio no projeto.
+- Pela parceria, ajuda e apoio no projeto.
 - 🌐 Site: https://phantasietranslate.com.br/
 
 ## Líderes do Projeto
