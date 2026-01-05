@@ -25,7 +25,7 @@ Qualquer erro relate no servidor de Discord para receber ajuda e nos ajudar a te
 ### Método 2: Instalação Manual (Caso o instalador falhe)
 Se tiver problemas com o executável, siga estes passos:
 
-1. Baixe este [release](https://github.com/Hinrong/P3P-Traduzido/releases/tag/31-02-2026](https://github.com/Hinrong/P3P-Traduzido/releases/tag/03012026) e extraia os arquivos.
+1. Baixe este [release](https://github.com/Hinrong/P3P-Traduzido/releases/tag/03012026) e extraia os arquivos.
 2. Copie o arquivo `dinput8.dll` e a pasta `update`.
 3. Cole-os na pasta raiz do seu jogo (onde fica o P3P.exe).
 
