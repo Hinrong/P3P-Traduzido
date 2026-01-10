@@ -1,6 +1,6 @@
 # Persona 3 Portable - Tradução (BETA)
 
-Tradução BETA de **Persona 3 Portable** (PC) para Português do Brasil, realizada pela **Equipe Atlantis**.
+Tradução BETA de **Persona 3 Portable** (PC) para Português do Brasil, realizada pela **Equipe Atlantis**, feita de fã para fã, de forma 100% humana.
 
 A tradução **NÃO** está completa, você encontrará erros, bugs, crashes e outros durante a sua jogatina.
 Cerca de 99% do jogo está traduzido e apenas 40% revisado.
