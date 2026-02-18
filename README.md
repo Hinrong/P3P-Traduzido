@@ -6,6 +6,7 @@ A tradução **NÃO** está completa, você encontrará erros, bugs, crashes e o
 Cerca de 99% do jogo está traduzido e apenas 40% revisado.
 Qualquer erro relate no servidor de Discord para receber ajuda e nos ajudar a terminar a tradução.
 
+Status do Projeto: Pausado
 ---
 
 # 📥 DOWNLOAD
