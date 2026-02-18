@@ -1,5 +1,5 @@
 # Persona 3 Portable - Tradução (BETA)
-Status do Projeto: Pausado
+**Status do Projeto:** Pausado
 
 Tradução BETA de **Persona 3 Portable** (PC) para Português do Brasil, realizada pela **Equipe Atlantis**, feita de fã para fã, de forma 100% humana.
 
