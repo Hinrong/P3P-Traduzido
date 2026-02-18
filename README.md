@@ -81,6 +81,13 @@ Para que a tradução funcione corretamente no Linux (ou Steam Deck), é necess�
 - Jvjfe
 - GustavoEmiya
 
+## Beta-Testers
+- porcao1214
+- Nathan Weiss Belmont
+- JamesEdw
+- Lorde Guigas
+- Panamericano
+
 ## Designers Gráficos
 - Zeros7
 - Yuki-sensei
