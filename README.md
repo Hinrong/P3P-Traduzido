@@ -54,7 +54,7 @@ Para que a tradução funcione corretamente no Linux (ou Steam Deck), é necess�
 - 🌐 Site: https://phantasietranslate.com.br/
 
 ## Líderes do Projeto
-- Hinrong (2024-)
+- Hinrong (2024-2026)
 - em.i (2022-2023)
 
 ## Tradutores
@@ -87,6 +87,7 @@ Para que a tradução funcione corretamente no Linux (ou Steam Deck), é necess�
 - JamesEdw
 - Lorde Guigas
 - Panamericano
+- Kall
 
 ## Designers Gráficos
 - Zeros7
